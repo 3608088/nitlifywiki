@@ -1,0 +1,6 @@
+[[redirects]]
+from = "/*"
+to = "https://zh.wikipedia.org/:splat"
+status = 200
+force = false
+headers = {Host = "zh.wikipedia.org", X-Forwarded-Host = "zh.wikipedia.org"}
