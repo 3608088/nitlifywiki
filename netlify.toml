@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/*"
+from = "/wiki"
 to = "https://zh.wikipedia.org/:splat"
 status = 200
 force = false
